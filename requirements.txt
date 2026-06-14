@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+sentencepiece
+librosa
+soundfile
+audioread
+SpeechRecognition
+scikit-learn
+pydub
